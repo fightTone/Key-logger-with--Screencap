@@ -1,0 +1,27 @@
+missing module named 'org.python' - imported by copy
+missing module named fcntl - imported by tempfile, subprocess
+missing module named readline - imported by cmd, pdb
+missing module named pwd - imported by posixpath
+missing module named _dummy_threading - imported by dummy_threading
+runtime module named six.moves - imported by pynput._util
+missing module named 'Xlib.XK' - imported by pynput.keyboard._xorg, pynput._util.xorg
+missing module named 'Xlib.threaded' - imported by pynput._util.xorg
+missing module named 'Xlib.protocol' - imported by pynput.keyboard._xorg, pynput.mouse._xorg
+missing module named 'Xlib.X' - imported by pynput.keyboard._xorg, pynput.mouse._xorg
+missing module named 'Xlib.ext' - imported by pynput.keyboard._xorg, pynput.mouse._xorg
+missing module named 'Xlib.display' - imported by pynput._util.xorg, pynput.mouse._xorg
+missing module named CoreFoundation - imported by pynput._util.darwin
+missing module named objc - imported by pynput._util.darwin
+missing module named org - imported by pickle
+missing module named AppKit - imported by pynput.mouse._darwin
+missing module named Quartz - imported by pynput.keyboard._darwin, pynput._util.darwin, pynput.mouse._darwin
+missing module named 'Xlib.keysymdef' - imported by pynput.keyboard._xorg
+missing module named Xlib - imported by pynput.keyboard._xorg
+missing module named riscosenviron - imported by os
+missing module named riscospath - imported by os
+missing module named riscos - imported by os
+missing module named ce - imported by os
+missing module named _emx_link - imported by os
+missing module named os2 - imported by os
+missing module named posix - imported by os
+missing module named resource - imported by posix
