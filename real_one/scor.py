@@ -94,7 +94,7 @@ if not os.path.exists(dis):
 
 def send_mail():
 	sender_email_address = "pe.ochi3@gmail.com"
-	sender_email_password = "dilimalimtan"
+	sender_email_password = "*******"
 	reciever_email_address = "pe.ochi3@gmail.com"
 
 	email_subject_line = 'Sample Python email'
